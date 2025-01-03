@@ -1,0 +1,25 @@
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# IDE-specific settings
+.idea/
+*.iml
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Temporary files and outputs
+*.tmp
+*.bak
+output/json-responses/
+
+# Compiled files
+*.class
